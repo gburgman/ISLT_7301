@@ -2,7 +2,7 @@
 While setting up Wordpress on my server, I ran into a problem that resulted in the following error message:
 
 <img width="1915" height="945" alt="Screenshot 2026-03-06 114549" src="https://github.com/user-attachments/assets/0946a8ee-18fc-45a3-8af4-75aeb419db56" />
-*WordPress error*
+*error message*
 
 ## Troubleshooting
 First, I googled the problem and found a helpful post on wordpress.org:
@@ -35,7 +35,7 @@ After updating the php file, I reloaded the WordPress page and it worked!
 In the event that you come across the following error in WordPress, here are some instructions you can follow to fix the issue:
 
 <img width="1915" height="945" alt="Screenshot 2026-03-06 114549" src="https://github.com/user-attachments/assets/0946a8ee-18fc-45a3-8af4-75aeb419db56" />
-*WordPress error*
+*error message*
 
 
 1) Check your wp-config.php file to ensure that the database name and username are both correct. They should match the name of the database and user that you created *exactly*.
